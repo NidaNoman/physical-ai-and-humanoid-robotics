@@ -9,9 +9,9 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://nidanoman.github.io',
+  url: '/',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/physical-ai-and-humanoid-robotics/',
+  baseUrl: 'https://github.com/NidaNoman/physical-ai-and-humanoid-robotics',
 
   // GitHub pages deployment config.
   organizationName: 'NidaNoman',
